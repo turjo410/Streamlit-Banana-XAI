@@ -260,7 +260,7 @@
 
 ### Contact Information
 For technical support or questions:
-- **Primary Contact**: Khalid Mahmud Joy
+- **Primary Contact**: Shahriar Khan
 - **Email**: [turjo410@gmail.com](mailto:turjo410@gmail.com)
 - **Secondary**: Any team member for specific issues
 
