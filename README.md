@@ -1,3 +1,57 @@
+## 📚 Kaggle Notebooks & Model Weights
+
+<div align="center">
+
+### 🔬 Complete Model Development Journey
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-1-custom-cnn">
+<img src="https://img.shields.io/badge/Notebook%201-Custom%20CNN-orange?style=for-the-badge&logo=jupyter" alt="Custom CNN"/>
+</a>
+<br/>Basic CNN Implementation
+</td>
+<td align="center" width="20%">
+<a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-2-efficientnet-b0-dense">
+<img src="https://img.shields.io/badge/Notebook%202-EfficientNet-blue?style=for-the-badge&logo=jupyter" alt="EfficientNet"/>
+</a>
+<br/>Transfer Learning
+</td>
+<td align="center" width="20%">
+<a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-3-vgg16-convnext">
+<img src="https://img.shields.io/badge/Notebook%203-VGG16-green?style=for-the-badge&logo=jupyter" alt="VGG16"/>
+</a>
+<br/>Classical Architectures
+</td>
+<td align="center" width="20%">
+<a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-4-vision-transformer">
+<img src="https://img.shields.io/badge/Notebook%204-ViT-purple?style=for-the-badge&logo=jupyter" alt="Vision Transformer"/>
+</a>
+<br/>Transformer Models
+</td>
+<td align="center" width="20%">
+<a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-5-xai-analysis">
+<img src="https://img.shields.io/badge/Notebook%205-XAI-red?style=for-the-badge&logo=jupyter" alt="XAI Analysis"/>
+</a>
+<br/>Explainable AI
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💾 Pre-trained Weights
+
+[![Download Weights](https://img.shields.io/badge/Download-Model%20Weights-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1am4mdy5jTWBEBRNWFjlWO_pSczga2bic?usp=sharing)
+
+*All trained model weights available for download*
+
+</div>
+
+
 # 🍌 Banana Variety and Ripeness Classification with Explainable AI (XAI)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -249,4 +303,5 @@ For questions or issues, please contact the team lead:
 **🍌 Happy Analyzing! ✨**
 
 </div>
+
 
